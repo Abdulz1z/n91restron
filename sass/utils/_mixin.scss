@@ -1,0 +1,29 @@
+@mixin df-ac {
+  display: flex;
+  align-items: center;
+}
+@mixin t-x {
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 58px;
+  color: #ffffff;
+  margin-top: 24px;
+}
+@mixin t-p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: #b8b8b8;
+}
+@mixin wrapper-t {
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 48px;
+  color: #ffffff;
+}
+@mixin wrapper-p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: #b8b8b8;
+}
